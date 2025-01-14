@@ -1,0 +1,387 @@
+[
+    {
+      "productName": "Wireless Earbuds",
+      "price": 49.99,
+      "image": "earbuds.jpg",
+      "category": "Electronics",
+      "rating": 4.5,
+      "inStock": true
+    },
+    {
+      "productName": "Smartphone",
+      "price": 699.99,
+      "image": "smartphone.jpg",
+      "category": "Electronics",
+      "rating": 4.8,
+      "inStock": true
+    },
+    {
+      "productName": "Laptop",
+      "price": 1199.99,
+      "image": "laptop.jpg",
+      "category": "Computers",
+      "rating": 4.7,
+      "inStock": true
+    },
+    {
+      "productName": "Coffee Maker",
+      "price": 59.99,
+      "image": "coffeemaker.jpg",
+      "category": "Home Appliances",
+      "rating": 4.3,
+      "inStock": false
+    },
+    {
+      "productName": "Gaming Chair",
+      "price": 199.99,
+      "image": "gamingchair.jpg",
+      "category": "Furniture",
+      "rating": 4.6,
+      "inStock": true
+    },
+    {
+      "productName": "Running Shoes",
+      "price": 89.99,
+      "image": "runningshoes.jpg",
+      "category": "Footwear",
+      "rating": 4.4,
+      "inStock": true
+    },
+    {
+      "productName": "Backpack",
+      "price": 49.99,
+      "image": "backpack.jpg",
+      "category": "Accessories",
+      "rating": 4.2,
+      "inStock": true
+    },
+    {
+      "productName": "Bluetooth Speaker",
+      "price": 39.99,
+      "image": "speaker.jpg",
+      "category": "Electronics",
+      "rating": 4.3,
+      "inStock": true
+    },
+    {
+      "productName": "Desk Lamp",
+      "price": 24.99,
+      "image": "desklamp.jpg",
+      "category": "Lighting",
+      "rating": 4.1,
+      "inStock": true
+    },
+    {
+      "productName": "Water Bottle",
+      "price": 14.99,
+      "image": "waterbottle.jpg",
+      "category": "Fitness",
+      "rating": 4.6,
+      "inStock": true
+    },
+    {
+      "productName": "Electric Kettle",
+      "price": 29.99,
+      "image": "kettle.jpg",
+      "category": "Home Appliances",
+      "rating": 4.2,
+      "inStock": true
+    },
+    {
+      "productName": "Yoga Mat",
+      "price": 19.99,
+      "image": "yogamat.jpg",
+      "category": "Fitness",
+      "rating": 4.4,
+      "inStock": true
+    },
+    {
+      "productName": "Smart Watch",
+      "price": 199.99,
+      "image": "smartwatch.jpg",
+      "category": "Electronics",
+      "rating": 4.7,
+      "inStock": true
+    },
+    {
+      "productName": "Keyboard",
+      "price": 49.99,
+      "image": "keyboard.jpg",
+      "category": "Computers",
+      "rating": 4.5,
+      "inStock": true
+    },
+    {
+      "productName": "Gaming Mouse",
+      "price": 29.99,
+      "image": "gamingmouse.jpg",
+      "category": "Computers",
+      "rating": 4.8,
+      "inStock": true
+    },
+    {
+      "productName": "Wireless Router",
+      "price": 99.99,
+      "image": "router.jpg",
+      "category": "Networking",
+      "rating": 4.4,
+      "inStock": false
+    },
+    {
+      "productName": "Tablet",
+      "price": 299.99,
+      "image": "tablet.jpg",
+      "category": "Electronics",
+      "rating": 4.6,
+      "inStock": true
+    },
+    {
+      "productName": "Office Chair",
+      "price": 149.99,
+      "image": "officechair.jpg",
+      "category": "Furniture",
+      "rating": 4.5,
+      "inStock": true
+    },
+    {
+      "productName": "Action Camera",
+      "price": 199.99,
+      "image": "actioncamera.jpg",
+      "category": "Photography",
+      "rating": 4.7,
+      "inStock": true
+    },
+    {
+      "productName": "Electric Toothbrush",
+      "price": 49.99,
+      "image": "toothbrush.jpg",
+      "category": "Personal Care",
+      "rating": 4.4,
+      "inStock": true
+    },
+    {
+      "productName": "Digital Thermometer",
+      "price": 19.99,
+      "image": "thermometer.jpg",
+      "category": "Health",
+      "rating": 4.5,
+      "inStock": true
+    },
+    {
+      "productName": "Hair Dryer",
+      "price": 39.99,
+      "image": "hairdryer.jpg",
+      "category": "Personal Care",
+      "rating": 4.3,
+      "inStock": true
+    },
+    {
+      "productName": "LED TV",
+      "price": 499.99,
+      "image": "ledtv.jpg",
+      "category": "Electronics",
+      "rating": 4.8,
+      "inStock": true
+    },
+    {
+      "productName": "Microwave Oven",
+      "price": 149.99,
+      "image": "microwave.jpg",
+      "category": "Home Appliances",
+      "rating": 4.6,
+      "inStock": true
+    },
+    {
+      "productName": "Refrigerator",
+      "price": 799.99,
+      "image": "refrigerator.jpg",
+      "category": "Home Appliances",
+      "rating": 4.8,
+      "inStock": true
+    },
+    {
+      "productName": "Washing Machine",
+      "price": 499.99,
+      "image": "washingmachine.jpg",
+      "category": "Home Appliances",
+      "rating": 4.7,
+      "inStock": false
+    },
+    {
+      "productName": "Dishwasher",
+      "price": 599.99,
+      "image": "dishwasher.jpg",
+      "category": "Home Appliances",
+      "rating": 4.6,
+      "inStock": true
+    },
+    {
+      "productName": "Toaster",
+      "price": 24.99,
+      "image": "toaster.jpg",
+      "category": "Kitchen Appliances",
+      "rating": 4.2,
+      "inStock": true
+    },
+    {
+      "productName": "Blender",
+      "price": 34.99,
+      "image": "blender.jpg",
+      "category": "Kitchen Appliances",
+      "rating": 4.3,
+      "inStock": true
+    },
+    {
+      "productName": "Vacuum Cleaner",
+      "price": 249.99,
+      "image": "vacuumcleaner.jpg",
+      "category": "Home Appliances",
+      "rating": 4.5,
+      "inStock": true
+    },
+    {
+      "productName": "Electric Scooter",
+      "price": 599.99,
+      "image": "electricscooter.jpg",
+      "category": "Transportation",
+      "rating": 4.7,
+      "inStock": true
+    },
+    {
+      "productName": "Fitness Tracker",
+      "price": 99.99,
+      "image": "fitnesstracker.jpg",
+      "category": "Electronics",
+      "rating": 4.4,
+      "inStock": true
+    },
+    {
+      "productName": "Desk Organizer",
+      "price": 14.99,
+      "image": "deskorganizer.jpg",
+      "category": "Office Supplies",
+      "rating": 4.2,
+      "inStock": true
+    },
+    {
+      "productName": "Gaming Console",
+      "price": 499.99,
+      "image": "gamingconsole.jpg",
+      "category": "Electronics",
+      "rating": 4.8,
+      "inStock": true
+    },
+    {
+      "productName": "Projector",
+      "price": 249.99,
+      "image": "projector.jpg",
+      "category": "Electronics",
+      "rating": 4.6,
+      "inStock": true
+    },
+    {
+      "productName": "Air Purifier",
+      "price": 199.99,
+      "image": "airpurifier.jpg",
+      "category": "Home Appliances",
+      "rating": 4.5,
+      "inStock": true
+    },
+    {
+      "productName": "Treadmill",
+      "price": 699.99,
+      "image": "treadmill.jpg",
+      "category": "Fitness",
+      "rating": 4.6,
+      "inStock": false
+    },
+    {
+      "productName": "Monitor",
+      "price": 199.99,
+      "image": "monitor.jpg",
+      "category": "Computers",
+      "rating": 4.7,
+      "inStock": true
+    },
+    {
+      "productName": "Printer",
+      "price": 99.99,
+      "image": "printer.jpg",
+      "category": "Office Supplies",
+      "rating": 4.4,
+      "inStock": true
+    },
+    {
+      "productName": "Electric Drill",
+      "price": 89.99,
+      "image": "drill.jpg",
+      "category": "Tools",
+      "rating": 4.5,
+      "inStock": true
+    },
+    {
+      "productName": "Smart Doorbell",
+      "price": 149.99,
+      "image": "smartdoorbell.jpg",
+      "category": "Smart Home",
+      "rating": 4.6,
+      "inStock": true
+    },
+    {
+      "productName": "Portable Charger",
+      "price": 29.99,
+      "image": "charger.jpg",
+      "category": "Electronics",
+      "rating": 4.3,
+      "inStock": true
+    },
+    {
+      "productName": "Noise-Cancelling Headphones",
+      "price": 299.99,
+      "image": "headphones.jpg",
+      "category": "Electronics",
+      "rating": 4.8,
+      "inStock": true
+    },
+    {
+      "productName": "Robot Vacuum",
+      "price": 399.99,
+      "image": "robotvacuum.jpg",
+      "category": "Home Appliances",
+      "rating": 4.7,
+      "inStock": true
+    },
+    {
+      "productName": "Electric Bike",
+      "price": 1299.99,
+      "image": "electricbike.jpg",
+      "category": "Transportation",
+      "rating": 4.8,
+      "inStock": true
+    },
+    {
+      "productName": "Camping Tent",
+      "price": 199.99,
+      "image": "tent.jpg",
+      "category": "Outdoor",
+      "rating": 4.5,
+      "inStock": true
+    },
+    {
+      "productName": "Streaming Device",
+      "price": 49.99,
+      "image": "streamingdevice.jpg",
+      "category": "Electronics",
+      "rating": 4.6,
+      "inStock": true
+    },
+    {
+      "productName": "Booklight",
+      "price": 9.99,
+      "image": "booklight.jpg",
+      "category": "Accessories",
+      "rating": 4.2,
+      "inStock": true
+    }
+  ]
+  
