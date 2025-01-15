@@ -29,7 +29,7 @@ app.post("/login", (req, res) => {
                 }
             })
             if (status == 0) {
-                res.status(402).json({ message: 'Not found', error: `user not found with ${obj.email}` });
+                res.status(404).json({ message: 'Not found', error: `user not found with ${obj.email}` });
             }
             if (status == 1) {
                 res.status(200).json({ message: 'Success', data: obj });
